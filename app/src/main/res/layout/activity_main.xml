@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/bgroundLyt"
+    tools:context=".activities.MainActivity" >
+
+    <Button
+        android:id="@+id/button_show_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wifi"
+        android:layout_alignBaseline="@+id/button_view_history"
+        android:layout_alignBottom="@+id/button_view_history"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="58dp"
+        android:layout_marginStart="58dp" />
+
+    <Button
+        android:id="@+id/button_view_history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View history"
+        android:layout_marginTop="83dp"
+        android:layout_below="@+id/btnCapture"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="28dp"
+        android:layout_marginEnd="28dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/button_show_location"
+        android:layout_toEndOf="@+id/button_show_location"
+        android:layout_marginTop="154dp" />
+
+    <Button
+        android:id="@+id/btnCapture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/button_show_location"
+        android:layout_alignRight="@+id/button_show_location"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="34dp"
+        android:layout_marginRight="34dp"
+        android:text="Capture"
+        android:visibility="invisible" />
+
+</RelativeLayout>

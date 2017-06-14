@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "E:\\android\\projects\\GetMeBack\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "D:\\android\\BroadcastReceiverExample\\app\\src\\main\\res\\menu\\activity_main.xml"
+    }
+]

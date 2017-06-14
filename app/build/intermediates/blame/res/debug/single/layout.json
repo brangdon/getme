@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\e_item.xml",
+        "source": "D:\\android\\BroadcastReceiverExample\\app\\src\\main\\res\\layout\\e_item.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\BroadcastReceiverExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_history.xml",
+        "source": "D:\\android\\BroadcastReceiverExample\\app\\src\\main\\res\\layout\\activity_view_history.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "E:\\android\\projects\\GetMeBack\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\android\\BroadcastReceiverExample\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android\\projects\\GetMeBack\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_history.xml",
+        "source": "E:\\android\\projects\\GetMeBack\\app\\src\\main\\res\\layout\\activity_view_history.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\e_item.xml",
+        "source": "E:\\android\\projects\\GetMeBack\\app\\src\\main\\res\\layout\\e_item.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\0f00851d98f17571545d5db43718585a7cb13b50\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\a5d3c54fae3c5c81fdf4f5d9851ab77816de196a\\output\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "D:\\android\\BroadcastReceiverExample\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\\output\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastReceiverExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\70401be147749fa0da466538c3aeb5cdbb82b049\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\android\\projects\\GetMeBack\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Marcin\\.android\\build-cache\\f83685b623a21ab099bd502f95c1b827b34d5db9\\output\\res\\layout\\notification_template_media.xml"
+    }
+]

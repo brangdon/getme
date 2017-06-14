@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android\BroadcastReceiverExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_615e45193bd2371d501cb75f0285d9f6def85429\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\103ca00b2c5bcf724ba410bafefb29941862ef1d\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_9b57e0a462c5631b18dc53ecfbb06d5815ff1c4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\9c43257ad5fe9cba516a6f9f60bcdd2d02d6f76e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\classes_f09cab2f3bb50ee7a6cc70bd7c81c9fb81aba6b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\103ca00b2c5bcf724ba410bafefb29941862ef1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\classes_91406e5d53b5ea229360c8a01a80097808a4cc8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\BroadcastReceiverExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7b92c40522f3225558ab486edf881ff1eab7fa5">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ba2532501b6560d37c2f440d36da1d57776ed31e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\gson-2.8.0_b71d5f7c2d5af6eab9e08ff09f05f15005821db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\c12cd5c42b637ba95d4e545ef5a5a0ebd39fcc8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\classes_7cd55593781914fac9a6b0343ebebd9fdb0bc5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0_db7d963ac518199c2ca6bb75b0b5961bb903469a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\70401be147749fa0da466538c3aeb5cdbb82b049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\classes_3fe001eb819eb3f05c9ea0d69f3751fb5bf63515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_17f93f1080f2d732a90a405ee1672a1a33a238fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.11.0\6592129dec2caa8791d322c7e4b6b7a30e8eadae\parse-android-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\parse-android-1.11.0_4e4afb24731cf94ebeb7cc260486362a64007c99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\06eed39f0edddbfb2a14806ef18ef8a7cbdb7348\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\classes_88d9fda41ef09bb0dde27386908752d171cbb96a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\48cd61db88c11feb59e56ed68c190d177e65fedf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\classes_5a8256826cc144453a9447c00c09f0f3c6736b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk-android\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d09e6601ceeafe06d4964f415f906556753767f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\a52f06c99a0c5f9c9b3a0e07a529736412c41cc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="D:\android\BroadcastReceiverExample\app\build\intermediates\pre-dexed\debug\classes_d90174723dde08e9b1b260b457bcece72fd8d8d5.jar" />
+    </item>
+
+</items>
