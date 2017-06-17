@@ -12,6 +12,7 @@ import android.net.wifi.WifiManager;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Environment;
+import android.os.Vibrator;
 import android.provider.MediaStore;
 import android.view.View;
 import android.widget.Button;
@@ -179,7 +180,8 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View arg0) {
                 // create class object
-
+            Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+            v.vibrate(500);
                 boolean wifiEnabled = wifiManager.isWifiEnabled();
                 if (wifiEnabled) {
                     wifiManager.setWifiEnabled(false);
@@ -358,6 +360,11 @@ public class MainActivity extends Activity {
         // Checks the orientation of the screen
         if (newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE) {
             Toast.makeText(this, "landscape", Toast.LENGTH_SHORT).show();
+
+
+
+
+
             count++;
             final String dir = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES) + "/picFolder/";
             File newdir = new File(dir);
